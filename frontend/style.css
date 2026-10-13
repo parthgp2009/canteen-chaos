@@ -210,7 +210,6 @@ h1, h2, h3 { margin: 0; }
   padding: 12px 16px 12px;
   scrollbar-width: thin;
   position: relative;
-  z-index: 40;
   background: var(--orange-soft);
 }
 
