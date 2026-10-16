@@ -114,9 +114,6 @@ it costs you rather than earns you.
 
 
 ## Rules
-
-- **No AI tools.** No ChatGPT, Claude, Copilot, Cursor or anything
-  similar. We are testing how you debug, not how you prompt.
 - **Documentation, Stack Overflow and asking seniors are all fine.**
   Anything where you still have to work out what applies to your code.
 - **Commit as you go.** Small commits with real messages. One giant
